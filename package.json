@@ -1,11 +1,11 @@
 {
-  "name": "software.bytepushers.commons-js",
+  "name": "software.bytepushers.common-js",
   "version": "0.0.1",
   "description": "A collection of common object extensions and general utilities that can be used as base foundational classes.",
   "author": "Tonté Pouncil <pouncilt.developer@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/byte-pushers/bytepushers-common-js"
+    "url": "https://github.com/byte-pushers/common-js"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
