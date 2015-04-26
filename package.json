@@ -1,6 +1,6 @@
 {
   "name": "software.bytepushers.common-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of common object extensions and general utilities that can be used as base foundational classes.",
   "author": "Tonté Pouncil <pouncilt.developer@gmail.com>",
   "repository": {
