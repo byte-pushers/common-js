@@ -9,10 +9,7 @@ module.exports = function(config) {
             'src/main/javascript/*.js',
             'src/test/javascript/**/*.js'
         ],
-        exclude: [
-            'src/test/resources/karma.conf*.js',
-            'src/main/javascript/com.bytepushers.extentions.JQueryExtention.js'
-        ],
+        exclude: [],
         reporters: ['progress'],
         port: 9876,
         logLevel: config.LOG_INFO,
