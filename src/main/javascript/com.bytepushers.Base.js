@@ -234,3 +234,5 @@ BytePushers.enumeration = function (namesToValues) {
     // Return the constructor that identifies the new type
     return enumeration;
 };
+
+//exports.BytePushers = BytePushers;
